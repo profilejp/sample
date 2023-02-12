@@ -1,11 +1,9 @@
-#hasCJKLanguage = true
-languageCode = "en"
-disableKinds = ['taxonomy', 'term']
 theme = "identity"
-copyright = "2023 Profile JP"
+disableKinds = ['taxonomy', 'term']
+copyright = "2023 ProfileJP"
 
 baseURL = "https://sample.profile.jp.net"
-title = "Profile JP Sample"
+title = "ProfileJP Sample"
 
 [params]
 author = "Jane Doe"
